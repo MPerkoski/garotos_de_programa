@@ -1,1 +1,5 @@
 criacao da branch master 24/10/2024 18:26
+obs:
+1-Cada usuario deve crear una propia Branch 
+2-no se debe cargar dadtos en la Branch Master
+3-cada usuario deve agregar su codigo final en una Branch-nombreusuario(deve ser creada por el usuario)
